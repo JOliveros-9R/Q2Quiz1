@@ -1,0 +1,22 @@
+body {
+	background-color:burlywood;
+	color:black;
+}
+
+.container{
+	background-color: beige;
+}
+
+img {
+ 	width: 200px;
+ }
+
+ td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+p {
+	font-size: 50px;
+}
